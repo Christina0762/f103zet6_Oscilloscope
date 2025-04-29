@@ -165,7 +165,8 @@ void window(void)
 	LCD_ShowString(260,165,200,16,16,"f(Hz):");
 	LCD_ShowString(260,200,200,16,16,"OSR:");  //²ÉÑùÂÊ	
 	LCD_ShowString(304,220,200,16,16,"Hz");
-	
+	LCD_ShowString(304,250,200,16,16,"F1-F2=-1982hz");
+
 	POINT_COLOR=BRRED;
 	LCD_ShowString(100,13,200,16,16,"IN:PA6");
 	
@@ -333,7 +334,8 @@ void GetPowerMag(void)
 //	if(T==10)		F=(u32)((double)temp/NPT*100200);
 //	if(T==2)		F=(u32)((double)temp/NPT*249760);
 	
-	LCD_ShowNum(260,180,F,5,16);		
+	LCD_ShowNum(260,180,F*10,5,16);	
+	
 //		LCD_ShowNum(280,200,temp,4,16);					
 //		LCD_ShowNum(280,220,(u32)(magmax*2.95),5,16);			
 }

@@ -1,6 +1,6 @@
 Dependencies for Project '¼òÒ×Ê¾²¨Æ÷', Target 'Target 1': (DO NOT MODIFY !)
 CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
-F (.\main.c)(0x67FD1148)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\HARDWARE\ADC -I ..\HARDWARE\DMA -I ..\HARDWARE\LCD -I ..\HARDWARE\LED -I ..\STM32F10x_FWLib\inc -I ..\USER -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\HARDWARE\KEY -I ..\HARDWARE\STM32F10x_DSP_Lib\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\BEEP -I ..\HARDWARE\DAC -I ..\HARDWARE\EXTI-IC:\Users\31152\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="540" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\main.c)(0x6810A995)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\HARDWARE\ADC -I ..\HARDWARE\DMA -I ..\HARDWARE\LCD -I ..\HARDWARE\LED -I ..\STM32F10x_FWLib\inc -I ..\USER -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\HARDWARE\KEY -I ..\HARDWARE\STM32F10x_DSP_Lib\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\BEEP -I ..\HARDWARE\DAC -I ..\HARDWARE\EXTI-IC:\Users\31152\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="540" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\HARDWARE\LED\led.h)(0x62FDAD76)
 I (..\SYSTEM\sys\sys.h)(0x62FDAD76)
 I (..\USER\stm32f10x.h)(0x62FDAD76)
